@@ -10,7 +10,8 @@ But now just few notes
 - I wanted to learn how to do websites for several years
 
   - cause it's fan
+
+ - cause they make awful webstes, for example http://itcorp.com/
   
-  Cause they make awful webstes, for example http://itcorp.com/
-  
-  And here is my !(file:///C:/Users/lenki/Desktop/webprogr/fm.jpg) Dostoyevsky ![fm](https://user-images.githubusercontent.com/125218388/218423536-24007fbf-ee2b-44e9-b400-a3dc5ebdfa94.jpg)
+And here is my <img src="https://user-images.githubusercontent.com/125218388/218437341-9f75c501-7751-4083-ad01-b3268ca2dd58.svg" width="50">
+ Dostoyevsky <img src=https://user-images.githubusercontent.com/125218388/218423536-24007fbf-ee2b-44e9-b400-a3dc5ebdfa94.jpg width=250>
