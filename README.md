@@ -1,4 +1,4 @@
-# Hi! Just tryin to explore GitHub.
+# Hi! Just trying to explore GitHub.
 ## Will update the file as soon as I feel more confident it what I'm doing here.
 
 But now just few notes
