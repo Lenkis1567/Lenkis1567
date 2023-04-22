@@ -4,6 +4,6 @@ Now I'm learning ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style
 
 But now just few notes
 
-- I'm not a developer still but I was PR and account manager, so I can manage whatever appears
-- I'm changing the profession
-- I wanted to learn how to do websites for several years
+- I'm not a developer still but I was PR and account manager, so I can manage whatever appears.
+- I'm changing the profession.
+- I wanted to learn how to construct websites for several years.
