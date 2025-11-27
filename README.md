@@ -1,6 +1,5 @@
 ### Hi there!
-#### Here are some of my projects.
-Now I've learned and continue learning: HTML, CSS, SCSS, JavaScript, TypeScript, jQuery, Angular, .net, Bootstrap, Python..
+I've learned and continue learning: HTML, CSS, SCSS, JavaScript, TypeScript, jQuery, Angular, .net, Bootstrap, Python..
 #### I'm working as Frontend / Cusomer success manager, dealing mainly with with Angular and .Net.
 Few notes:
 
