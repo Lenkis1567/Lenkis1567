@@ -1,6 +1,6 @@
 ### Hi there!
 I've learned and continue learning: HTML, CSS, SCSS, JavaScript, TypeScript, jQuery, Angular, .net, Bootstrap, Python..
-#### I'm working as Frontend / Customer success manager, dealing mainly with Angular and .Net.
+#### I'm working as Frontend developer / Customer success manager, dealing mainly with Angular and .Net.
 Few notes:
 
 - I have been a project manager for more than 20 years, so I can manage whatever appears.
